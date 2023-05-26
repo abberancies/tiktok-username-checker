@@ -1,7 +1,7 @@
 # Last Updated
 * 26/5/2023
 # Setup
-* [Download](https://github.com/abberancies/name/releases/tag/Full)
+* [Download](https://github.com/abberancies/tiktok-username-checker/releases/tag/Latest)
 # How to run
 * Open the `install.bat` file to install the required packages
 * Paste the usernames you would like to be checked in `available.txt`
